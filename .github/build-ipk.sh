@@ -77,3 +77,4 @@ chmod 0755 "$TEMP_DIR/ipkg-build"
 
 mv "$TEMP_DIR/${PKG_NAME}_${PKG_VERSION}_all.ipk" "$BASE_DIR/${PKG_NAME}_${PKG_VERSION}_javascript_all.ipk"
 rm -rf "$TEMP_DIR"
+
